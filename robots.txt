@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwereode.github.io/Qyu/sitemap_index.txt
+Sitemap: https://uwereode.github.io/Ysk/sitemap_index.txt
+Sitemap: https://uwereode.github.io/ZSO/sitemap_index.txt
+Sitemap: https://uwereode.github.io/bEZ/sitemap_index.txt
